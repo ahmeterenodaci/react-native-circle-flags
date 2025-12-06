@@ -9,7 +9,7 @@ module.exports = {
     {
       name: 'removeAttrs',
       params: {
-        attrs: '(color|font|opacity|paint|stroke|text).*'
+        attrs: '(color|data|fill-rule|font|opacity|paint|stroke|text|xml).*'
       }
     },
     'convertStyleToAttrs',
