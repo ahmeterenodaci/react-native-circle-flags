@@ -2,6 +2,8 @@
 
 <h1>Gallery</h1>
 
+<h2>Main flags</h2>
+
 <div class="container">
   <div><img src="flags/ad.svg" width="96"/><p>Andorra (<code>ad</code>)</p></div>
   <div><img src="flags/ae.svg" width="96"/><p>United Arab Emirates (<code>ae</code>)</p></div>
@@ -86,7 +88,6 @@
   <div><img src="flags/dm.svg" width="96"/><p>Dominica (<code>dm</code>)</p></div>
   <div><img src="flags/do.svg" width="96"/><p>Dominican Republic (<code>do</code>)</p></div>
   <div><img src="flags/dz.svg" width="96"/><p>Algeria (<code>dz</code>)</p></div>
-  <div><img src="flags/other/earth.svg" width="96"/><p>Earth</p></div>
   <div><img src="flags/east_african_federation.svg" width="96"/><p>East African Federation</p></div>
   <div><img src="flags/easter_island.svg" width="96"/><p>Easter Island</p></div>
   <div><img src="flags/ec.svg" width="96"/><p>Ecuador (<code>ec</code>)</p></div>
@@ -236,7 +237,6 @@
   <div><img src="flags/ma.svg" width="96"/><p>Morocco (<code>ma</code>)</p></div>
   <div><img src="flags/malayali.svg" width="96"/><p>Malayali</p></div>
   <div><img src="flags/maori.svg" width="96"/><p>Maori</p></div>
-  <div><img src="flags/other/mars.svg" width="96"/><p>Mars (<code>ma</code>)</p></div>
   <div><img src="flags/mc.svg" width="96"/><p>Monaco (<code>mc</code>)</p></div>
   <div><img src="flags/md.svg" width="96"/><p>Moldova (<code>md</code>)</p></div>
   <div><img src="flags/me.svg" width="96"/><p>Montenegro (<code>me</code>)</p></div>
@@ -262,7 +262,6 @@
   <div><img src="flags/mz.svg" width="96"/><p>Mozambique (<code>mz</code>)</p></div>
   <div><img src="flags/na.svg" width="96"/><p>Namibia (<code>na</code>)</p></div>
   <div><img src="flags/nc.svg" width="96"/><p>New Caledonia (<code>nc</code>)</p></div>
-  <div><img src="flags/other/nato.svg" width="96"/><p>NATO</p></div>
   <div><img src="flags/ne.svg" width="96"/><p>Niger (<code>ne</code>)</p></div>
   <div><img src="flags/nf.svg" width="96"/><p>Norfolk Island (<code>nf</code>)</p></div>
   <div><img src="flags/ng.svg" width="96"/><p>Nigeria (<code>ng</code>)</p></div>
@@ -276,7 +275,6 @@
   <div><img src="flags/nu.svg" width="96"/><p>Niue (<code>nu</code>)</p></div>
   <div><img src="flags/nz.svg" width="96"/><p>New Zealand (<code>nz</code>)</p></div>
   <div><img src="flags/occitania.svg" width="96"/><p>Occitania</p></div>
-  <div><img src="flags/other/olympics.svg" width="96"/><p>Olympics</p></div>
   <div><img src="flags/om.svg" width="96"/><p>Oman (<code>om</code>)</p></div>
   <div><img src="flags/otomi.svg" width="96"/><p>Otomi</p></div>
   <div><img src="flags/pa.svg" width="96"/><p>Panama (<code>pa</code>)</p></div>
@@ -361,7 +359,6 @@
   <div><img src="flags/tz-zanzibar.svg" width="96"/><p>Tanzania (Zanzibar)</p></div>
   <div><img src="flags/ua.svg" width="96"/><p>Ukraine (<code>ua</code>)</p></div>
   <div><img src="flags/ug.svg" width="96"/><p>Uganda (<code>ug</code>)</p></div>
-  <div><img src="flags/other/united_nations.svg" width="96"/><p>United Nations (<code>un</code>)</p></div>
   <div><img src="flags/us.svg" width="96"/><p>United States of America (<code>us</code>)</p></div>
   <div><img src="flags/us-ak.svg" width="96"/><p>Alaska (<code>us-ak</code>)</p></div>
   <div><img src="flags/us-al.svg" width="96"/><p>Alabama (<code>us-al</code>)</p></div>
@@ -412,4 +409,19 @@
   <div><img src="flags/zm.svg" width="96"/><p>Zambia (<code>zm</code>)</p></div>
   <div><img src="flags/zw.svg" width="96"/><p>Zimbabwe (<code>zw</code>)</p></div>
 </div>
- 
+
+<h2>Other flags</h2>
+
+<div class="container">
+  <div><img src="flags/other/checkered.svg" width="96"><p>Checkered</p></div>
+  <div><img src="flags/other/earth.svg" width="96"/><p>Earth</p></div>
+  <div><img src="flags/other/klingon.svg" width="96"><p>Klingon</p></div>
+  <div><img src="flags/other/lgbt.svg" width="96"><p>LGBT</p></div>
+  <div><img src="flags/other/lgbt-progress.svg" width="96"><p>Progress Pride</p></div>
+  <div><img src="flags/other/lgbt-transgender.svg" width="96"><p>Transgender</p></div>
+  <div><img src="flags/other/mars.svg" width="96"/><p>Mars</p></div>
+  <div><img src="flags/other/nato.svg" width="96"/><p>NATO</p></div>
+  <div><img src="flags/other/olympics.svg" width="96"/><p>Olympics</p></div>
+  <div><img src="flags/other/pirate.svg" width="96"><p>Pirate</p></div>
+  <div><img src="flags/other/united_nations.svg" width="96"/><p>United Nations</p></div>
+</div>
