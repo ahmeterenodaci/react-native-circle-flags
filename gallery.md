@@ -617,7 +617,7 @@ https://hatscripts.github.io/circle-flags/flags/language/xx.svg
   <div><img src="flags/language/vi.svg" width="96"><p>Vietnamese (<code>vi</code>)</p></div>
   <div><img src="flags/language/vo.svg" width="96"><p>Volapük (<code>vo</code>)</p></div>
   <div><img src="flags/language/xh.svg" width="96"><p>Xhosa (<code>xh</code>)</p></div>
-  <div><img src="flags/language/xx.svg" width="96"><p>&lt;Unknown&gt; (<code>xx</code>)</p></div>
+  <div><img src="flags/language/xx.svg" width="96"><p>&lt;Placeholder&gt; (<code>xx</code>)</p></div>
   <div><img src="flags/language/yi.svg" width="96"><p>Yiddish (<code>yi</code>)</p></div>
   <div><img src="flags/language/yo.svg" width="96"><p>Yoruba (<code>yo</code>)</p></div>
   <div><img src="flags/language/yua.svg" width="96"><p>Yucatec Maya (<code>yua</code>)</p></div>
