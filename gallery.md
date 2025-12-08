@@ -461,6 +461,7 @@ https://hatscripts.github.io/circle-flags/flags/language/xx.svg
   <div><img src="flags/language/dz.svg" width="96"><p>Dzongkha (<code>dz</code>)</p></div>
   <div><img src="flags/language/ee.svg" width="96"><p>Ewe (<code>ee</code>)</p></div>
   <div><img src="flags/language/el.svg" width="96"><p>Greek (<code>el</code>)</p></div>
+  <div><img src="flags/language/en.svg" width="96"><p>English (<code>en</code>)</p></div>
   <div><img src="flags/language/en-au.svg" width="96"><p>English (Australia) (<code>en-au</code>)</p></div>
   <div><img src="flags/language/en-ca.svg" width="96"><p>English (Canada) (<code>en-ca</code>)</p></div>
   <div><img src="flags/language/en-gh.svg" width="96"><p>English (Ghana) (<code>en-gh</code>)</p></div>
@@ -475,7 +476,6 @@ https://hatscripts.github.io/circle-flags/flags/language/xx.svg
   <div><img src="flags/language/en-tz.svg" width="96"><p>English (Tanzania) (<code>en-tz</code>)</p></div>
   <div><img src="flags/language/en-us.svg" width="96"><p>English (United States) (<code>en-us</code>)</p></div>
   <div><img src="flags/language/en-za.svg" width="96"><p>English (South Africa) (<code>en-za</code>)</p></div>
-  <div><img src="flags/language/en.svg" width="96"><p>English (<code>en</code>)</p></div>
   <div><img src="flags/language/eo.svg" width="96"><p>Esperanto (<code>eo</code>)</p></div>
   <div><img src="flags/language/es.svg" width="96"><p>Spanish (<code>es</code>)</p></div>
   <div><img src="flags/language/es-mx.svg" width="96"><p>Spanish (Mexico) (<code>es-mx</code>)</p></div>
