@@ -7,10 +7,6 @@
   padding: 1em;
   width: 160px;
 }
-.container > div img {
-  width: 96px;
-  height: auto;
-}
 code {
   white-space: nowrap;
 }
