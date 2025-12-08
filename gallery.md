@@ -559,8 +559,8 @@
   <div><img src="flags/language/pl.svg" width="96"><p>Polish</p></div>
   <div><img src="flags/language/pms.svg" width="96"><p>Piedmontese</p></div>
   <div><img src="flags/language/ps.svg" width="96"><p>Pashto</p></div>
-  <div><img src="flags/language/pt-br.svg" width="96"><p>Portuguese</p></div>
   <div><img src="flags/language/pt.svg" width="96"><p>Portuguese</p></div>
+  <div><img src="flags/language/pt-br.svg" width="96"><p>Portuguese (Brazil)</p></div>
   <div><img src="flags/language/qu.svg" width="96"><p>Quechua</p></div>
   <div><img src="flags/language/rm.svg" width="96"><p>Romansh</p></div>
   <div><img src="flags/language/rn.svg" width="96"><p>Rundi</p></div>
