@@ -2,10 +2,13 @@
 
 <h1>Gallery</h1>
 
+<h2>Main flags</h2>
+
 <div class="container">
   <div><img src="flags/ad.svg" width="96"/><p>Andorra (<code>ad</code>)</p></div>
   <div><img src="flags/ae.svg" width="96"/><p>United Arab Emirates (<code>ae</code>)</p></div>
   <div><img src="flags/af.svg" width="96"/><p>Afghanistan (<code>af</code>)</p></div>
+  <div><img src="flags/af-emirate.svg" width="96"/><p>Afghanistan</p></div>
   <div><img src="flags/ag.svg" width="96"/><p>Antigua and Barbuda (<code>ag</code>)</p></div>
   <div><img src="flags/ai.svg" width="96"/><p>Anguilla (<code>ai</code>)</p></div>
   <div><img src="flags/al.svg" width="96"/><p>Albania (<code>al</code>)</p></div>
@@ -13,7 +16,9 @@
   <div><img src="flags/an.svg" width="96"/><p>Netherlands Antilles (<code>an</code>)</p></div>
   <div><img src="flags/ao.svg" width="96"/><p>Angola (<code>ao</code>)</p></div>
   <div><img src="flags/aq.svg" width="96"/><p>Antarctica (<code>aq</code>)</p></div>
+  <div><img src="flags/aq-true_south.svg" width="96"/><p>Antarctica (True South)</p></div>
   <div><img src="flags/ar.svg" width="96"/><p>Argentina (<code>ar</code>)</p></div>
+  <div><img src="flags/artsakh.svg" width="96"/><p>Artsakh</p></div>
   <div><img src="flags/as.svg" width="96"/><p>American Samoa (<code>as</code>)</p></div>
   <div><img src="flags/at.svg" width="96"/><p>Austria (<code>at</code>)</p></div>
   <div><img src="flags/au.svg" width="96"/><p>Australia (<code>au</code>)</p></div>
@@ -83,7 +88,6 @@
   <div><img src="flags/dm.svg" width="96"/><p>Dominica (<code>dm</code>)</p></div>
   <div><img src="flags/do.svg" width="96"/><p>Dominican Republic (<code>do</code>)</p></div>
   <div><img src="flags/dz.svg" width="96"/><p>Algeria (<code>dz</code>)</p></div>
-  <div><img src="flags/other/earth.svg" width="96"/><p>Earth</p></div>
   <div><img src="flags/east_african_federation.svg" width="96"/><p>East African Federation</p></div>
   <div><img src="flags/easter_island.svg" width="96"/><p>Easter Island</p></div>
   <div><img src="flags/ec.svg" width="96"/><p>Ecuador (<code>ec</code>)</p></div>
@@ -95,7 +99,7 @@
   <div><img src="flags/es.svg" width="96"/><p>Spain (<code>es</code>)</p></div>
   <div><img src="flags/es-variant.svg" width="96"/><p>Spain</p></div>
   <div><img src="flags/es-ar.svg" width="96"/><p>Aragon (<code>es-ar</code>)</p></div>
-  <div><img src="flags/es-ce.svg" width="96"/><p>Ceuta (<code>es</code>)</p></div>
+  <div><img src="flags/es-ce.svg" width="96"/><p>Ceuta (<code>es-ce</code>)</p></div>
   <div><img src="flags/es-cn.svg" width="96"/><p>Canary Islands (<code>es-cn</code>)</p></div>
   <div><img src="flags/es-ct.svg" width="96"/><p>Catalonia (<code>es-ct</code>)</p></div>
   <div><img src="flags/es-ga.svg" width="96"/><p>Galicia (<code>es-ga</code>)</p></div>
@@ -233,7 +237,6 @@
   <div><img src="flags/ma.svg" width="96"/><p>Morocco (<code>ma</code>)</p></div>
   <div><img src="flags/malayali.svg" width="96"/><p>Malayali</p></div>
   <div><img src="flags/maori.svg" width="96"/><p>Maori</p></div>
-  <div><img src="flags/other/mars.svg" width="96"/><p>Mars (<code>ma</code>)</p></div>
   <div><img src="flags/mc.svg" width="96"/><p>Monaco (<code>mc</code>)</p></div>
   <div><img src="flags/md.svg" width="96"/><p>Moldova (<code>md</code>)</p></div>
   <div><img src="flags/me.svg" width="96"/><p>Montenegro (<code>me</code>)</p></div>
@@ -247,6 +250,7 @@
   <div><img src="flags/mo.svg" width="96"/><p>Macao (<code>mo</code>)</p></div>
   <div><img src="flags/mp.svg" width="96"/><p>Northern Mariana Islands (<code>mp</code>)</p></div>
   <div><img src="flags/mq.svg" width="96"/><p>Martinique (<code>mq</code>)</p></div>
+  <div><img src="flags/mq-old.svg" width="96"/><p>Martinique</p></div>
   <div><img src="flags/mr.svg" width="96"/><p>Mauritania (<code>mr</code>)</p></div>
   <div><img src="flags/ms.svg" width="96"/><p>Montserrat (<code>ms</code>)</p></div>
   <div><img src="flags/mt.svg" width="96"/><p>Malta (<code>mt</code>)</p></div>
@@ -258,7 +262,6 @@
   <div><img src="flags/mz.svg" width="96"/><p>Mozambique (<code>mz</code>)</p></div>
   <div><img src="flags/na.svg" width="96"/><p>Namibia (<code>na</code>)</p></div>
   <div><img src="flags/nc.svg" width="96"/><p>New Caledonia (<code>nc</code>)</p></div>
-  <div><img src="flags/other/nato.svg" width="96"/><p>NATO</p></div>
   <div><img src="flags/ne.svg" width="96"/><p>Niger (<code>ne</code>)</p></div>
   <div><img src="flags/nf.svg" width="96"/><p>Norfolk Island (<code>nf</code>)</p></div>
   <div><img src="flags/ng.svg" width="96"/><p>Nigeria (<code>ng</code>)</p></div>
@@ -272,7 +275,6 @@
   <div><img src="flags/nu.svg" width="96"/><p>Niue (<code>nu</code>)</p></div>
   <div><img src="flags/nz.svg" width="96"/><p>New Zealand (<code>nz</code>)</p></div>
   <div><img src="flags/occitania.svg" width="96"/><p>Occitania</p></div>
-  <div><img src="flags/other/olympics.svg" width="96"/><p>Olympics</p></div>
   <div><img src="flags/om.svg" width="96"/><p>Oman (<code>om</code>)</p></div>
   <div><img src="flags/otomi.svg" width="96"/><p>Otomi</p></div>
   <div><img src="flags/pa.svg" width="96"/><p>Panama (<code>pa</code>)</p></div>
@@ -354,9 +356,9 @@
   <div><img src="flags/tv.svg" width="96"/><p>Tuvalu (<code>tv</code>)</p></div>
   <div><img src="flags/tw.svg" width="96"/><p>Taiwan (<code>tw</code>)</p></div>
   <div><img src="flags/tz.svg" width="96"/><p>Tanzania (<code>tz</code>)</p></div>
+  <div><img src="flags/tz-zanzibar.svg" width="96"/><p>Tanzania (Zanzibar)</p></div>
   <div><img src="flags/ua.svg" width="96"/><p>Ukraine (<code>ua</code>)</p></div>
   <div><img src="flags/ug.svg" width="96"/><p>Uganda (<code>ug</code>)</p></div>
-  <div><img src="flags/other/united_nations.svg" width="96"/><p>United Nations (<code>un</code>)</p></div>
   <div><img src="flags/us.svg" width="96"/><p>United States of America (<code>us</code>)</p></div>
   <div><img src="flags/us-ak.svg" width="96"/><p>Alaska (<code>us-ak</code>)</p></div>
   <div><img src="flags/us-al.svg" width="96"/><p>Alabama (<code>us-al</code>)</p></div>
@@ -398,7 +400,7 @@
   <div><img src="flags/wiphala.svg" width="96"/><p>Wiphala</p></div>
   <div><img src="flags/ws.svg" width="96"/><p>Samoa (<code>ws</code>)</p></div>
   <div><img src="flags/xk.svg" width="96"/><p>Kosovo (<code>xk</code>)</p></div>
-  <div><img src="flags/xx.svg" width="96"/><p>&lt;Placeholder&gt;</p></div>
+  <div><img src="flags/xx.svg" width="96"/><p>&lt;Placeholder&gt; (<code>xx</code>)</p></div>
   <div><img src="flags/ye.svg" width="96"/><p>Yemen (<code>ye</code>)</p></div>
   <div><img src="flags/yorubaland.svg" width="96"/><p>Yorubaland</p></div>
   <div><img src="flags/yt.svg" width="96"/><p>Mayotte (<code>yt</code>)</p></div>
@@ -407,4 +409,222 @@
   <div><img src="flags/zm.svg" width="96"/><p>Zambia (<code>zm</code>)</p></div>
   <div><img src="flags/zw.svg" width="96"/><p>Zimbabwe (<code>zw</code>)</p></div>
 </div>
- 
+
+<h2>Language flags</h2>
+
+<div class="container">
+  <div><img src="flags/language/aa.svg" width="96"><p>Afar</p></div>
+  <div><img src="flags/language/ab.svg" width="96"><p>Abkhazian</p></div>
+  <div><img src="flags/language/af.svg" width="96"><p>Afrikaans</p></div>
+  <div><img src="flags/language/ak.svg" width="96"><p>Akan</p></div>
+  <div><img src="flags/language/am.svg" width="96"><p>Amharic</p></div>
+  <div><img src="flags/language/an.svg" width="96"><p>Aragonese</p></div>
+  <div><img src="flags/language/ar.svg" width="96"><p>Arabic</p></div>
+  <div><img src="flags/language/as.svg" width="96"><p>Assamese</p></div>
+  <div><img src="flags/language/av.svg" width="96"><p>Avaric</p></div>
+  <div><img src="flags/language/ay.svg" width="96"><p>Aymara</p></div>
+  <div><img src="flags/language/az.svg" width="96"><p>Azerbaijani</p></div>
+  <div><img src="flags/language/ba.svg" width="96"><p>Bashkir</p></div>
+  <div><img src="flags/language/be.svg" width="96"><p>Belarusian</p></div>
+  <div><img src="flags/language/bg.svg" width="96"><p>Bulgarian</p></div>
+  <div><img src="flags/language/bi.svg" width="96"><p>Bislama</p></div>
+  <div><img src="flags/language/bm.svg" width="96"><p>Bambara</p></div>
+  <div><img src="flags/language/bn.svg" width="96"><p>Bengali</p></div>
+  <div><img src="flags/language/bo.svg" width="96"><p>Tibetan</p></div>
+  <div><img src="flags/language/br.svg" width="96"><p>Breton</p></div>
+  <div><img src="flags/language/bs.svg" width="96"><p>Bosnian</p></div>
+  <div><img src="flags/language/ca.svg" width="96"><p>Catalan</p></div>
+  <div><img src="flags/language/ce.svg" width="96"><p>Chechen</p></div>
+  <div><img src="flags/language/ceb.svg" width="96"><p>Cebuano</p></div>
+  <div><img src="flags/language/ch.svg" width="96"><p>Chamorro</p></div>
+  <div><img src="flags/language/chm.svg" width="96"><p>Mari</p></div>
+  <div><img src="flags/language/ckb.svg" width="96"><p>Sorani Kurdish</p></div>
+  <div><img src="flags/language/co.svg" width="96"><p>Corsican</p></div>
+  <div><img src="flags/language/cs.svg" width="96"><p>Czech</p></div>
+  <div><img src="flags/language/cv.svg" width="96"><p>Chuvash</p></div>
+  <div><img src="flags/language/cy.svg" width="96"><p>Welsh</p></div>
+  <div><img src="flags/language/da.svg" width="96"><p>Danish</p></div>
+  <div><img src="flags/language/de.svg" width="96"><p>German</p></div>
+  <div><img src="flags/language/dv.svg" width="96"><p>Dhivehi</p></div>
+  <div><img src="flags/language/dz.svg" width="96"><p>Dzongkha</p></div>
+  <div><img src="flags/language/ee.svg" width="96"><p>Ewe</p></div>
+  <div><img src="flags/language/el.svg" width="96"><p>Greek</p></div>
+  <div><img src="flags/language/en-au.svg" width="96"><p>English (Australia)</p></div>
+  <div><img src="flags/language/en-ca.svg" width="96"><p>English (Canada)</p></div>
+  <div><img src="flags/language/en-gh.svg" width="96"><p>English (Ghana)</p></div>
+  <div><img src="flags/language/en-hk.svg" width="96"><p>English (Hong Kong)</p></div>
+  <div><img src="flags/language/en-ie.svg" width="96"><p>English (Ireland)</p></div>
+  <div><img src="flags/language/en-in.svg" width="96"><p>English (India)</p></div>
+  <div><img src="flags/language/en-ke.svg" width="96"><p>English (Kenya)</p></div>
+  <div><img src="flags/language/en-ng.svg" width="96"><p>English (Nigeria)</p></div>
+  <div><img src="flags/language/en-nz.svg" width="96"><p>English (New Zealand)</p></div>
+  <div><img src="flags/language/en-ph.svg" width="96"><p>English (Philippines)</p></div>
+  <div><img src="flags/language/en-sg.svg" width="96"><p>English (Singapore)</p></div>
+  <div><img src="flags/language/en-tz.svg" width="96"><p>English (Tanzania)</p></div>
+  <div><img src="flags/language/en-us.svg" width="96"><p>English (United States)</p></div>
+  <div><img src="flags/language/en-za.svg" width="96"><p>English (South Africa)</p></div>
+  <div><img src="flags/language/en.svg" width="96"><p>English</p></div>
+  <div><img src="flags/language/eo.svg" width="96"><p>Esperanto</p></div>
+  <div><img src="flags/language/es.svg" width="96"><p>Spanish</p></div>
+  <div><img src="flags/language/es-mx.svg" width="96"><p>Spanish (Mexico)</p></div>
+  <div><img src="flags/language/et.svg" width="96"><p>Estonian</p></div>
+  <div><img src="flags/language/eu.svg" width="96"><p>Basque</p></div>
+  <div><img src="flags/language/fa.svg" width="96"><p>Persian</p></div>
+  <div><img src="flags/language/fi.svg" width="96"><p>Finnish</p></div>
+  <div><img src="flags/language/fil.svg" width="96"><p>Filipino</p></div>
+  <div><img src="flags/language/fj.svg" width="96"><p>Fijian</p></div>
+  <div><img src="flags/language/fo.svg" width="96"><p>Faroese</p></div>
+  <div><img src="flags/language/fr.svg" width="96"><p>French</p></div>
+  <div><img src="flags/language/fy.svg" width="96"><p>Western Frisian</p></div>
+  <div><img src="flags/language/ga.svg" width="96"><p>Irish</p></div>
+  <div><img src="flags/language/gd.svg" width="96"><p>Scottish Gaelic</p></div>
+  <div><img src="flags/language/gl.svg" width="96"><p>Galician</p></div>
+  <div><img src="flags/language/gn.svg" width="96"><p>Guarani</p></div>
+  <div><img src="flags/language/gu.svg" width="96"><p>Gujarati</p></div>
+  <div><img src="flags/language/gv.svg" width="96"><p>Manx</p></div>
+  <div><img src="flags/language/ha.svg" width="96"><p>Hausa</p></div>
+  <div><img src="flags/language/haw.svg" width="96"><p>Hawaiian</p></div>
+  <div><img src="flags/language/he.svg" width="96"><p>Hebrew</p></div>
+  <div><img src="flags/language/hi.svg" width="96"><p>Hindi</p></div>
+  <div><img src="flags/language/hmn.svg" width="96"><p>Hmong</p></div>
+  <div><img src="flags/language/ho.svg" width="96"><p>Hiri Motu</p></div>
+  <div><img src="flags/language/hr.svg" width="96"><p>Croatian</p></div>
+  <div><img src="flags/language/ht.svg" width="96"><p>Haitian Creole</p></div>
+  <div><img src="flags/language/hu.svg" width="96"><p>Hungarian</p></div>
+  <div><img src="flags/language/hy.svg" width="96"><p>Armenian</p></div>
+  <div><img src="flags/language/ia.svg" width="96"><p>Interlingua</p></div>
+  <div><img src="flags/language/id.svg" width="96"><p>Indonesian</p></div>
+  <div><img src="flags/language/ie.svg" width="96"><p>Interlingue</p></div>
+  <div><img src="flags/language/ig.svg" width="96"><p>Igbo</p></div>
+  <div><img src="flags/language/ilo.svg" width="96"><p>Ilocano</p></div>
+  <div><img src="flags/language/interslavic.svg" width="96"><p>Interslavic</p></div>
+  <div><img src="flags/language/io.svg" width="96"><p>Ido</p></div>
+  <div><img src="flags/language/is.svg" width="96"><p>Icelandic</p></div>
+  <div><img src="flags/language/it.svg" width="96"><p>Italian</p></div>
+  <div><img src="flags/language/ja.svg" width="96"><p>Japanese</p></div>
+  <div><img src="flags/language/jv.svg" width="96"><p>Javanese</p></div>
+  <div><img src="flags/language/ka.svg" width="96"><p>Georgian</p></div>
+  <div><img src="flags/language/kg.svg" width="96"><p>Kongo</p></div>
+  <div><img src="flags/language/ki.svg" width="96"><p>Kikuyu</p></div>
+  <div><img src="flags/language/kk.svg" width="96"><p>Kazakh</p></div>
+  <div><img src="flags/language/kl.svg" width="96"><p>Greenlandic</p></div>
+  <div><img src="flags/language/km.svg" width="96"><p>Khmer</p></div>
+  <div><img src="flags/language/kn.svg" width="96"><p>Kannada</p></div>
+  <div><img src="flags/language/ko.svg" width="96"><p>Korean</p></div>
+  <div><img src="flags/language/kr.svg" width="96"><p>Kanuri</p></div>
+  <div><img src="flags/language/kri.svg" width="96"><p>Krio</p></div>
+  <div><img src="flags/language/ks.svg" width="96"><p>Kashmiri</p></div>
+  <div><img src="flags/language/ku.svg" width="96"><p>Kurdish</p></div>
+  <div><img src="flags/language/kv.svg" width="96"><p>Komi</p></div>
+  <div><img src="flags/language/kw.svg" width="96"><p>Cornish</p></div>
+  <div><img src="flags/language/ky.svg" width="96"><p>Kyrgyz</p></div>
+  <div><img src="flags/language/la.svg" width="96"><p>Latin</p></div>
+  <div><img src="flags/language/lb.svg" width="96"><p>Luxembourgish</p></div>
+  <div><img src="flags/language/lg.svg" width="96"><p>Ganda</p></div>
+  <div><img src="flags/language/ln.svg" width="96"><p>Lingala</p></div>
+  <div><img src="flags/language/lo.svg" width="96"><p>Lao</p></div>
+  <div><img src="flags/language/lt.svg" width="96"><p>Lithuanian</p></div>
+  <div><img src="flags/language/lu.svg" width="96"><p>Luba-Katanga</p></div>
+  <div><img src="flags/language/lus.svg" width="96"><p>Mizo</p></div>
+  <div><img src="flags/language/lv.svg" width="96"><p>Latvian</p></div>
+  <div><img src="flags/language/mg.svg" width="96"><p>Malagasy</p></div>
+  <div><img src="flags/language/mh.svg" width="96"><p>Marshallese</p></div>
+  <div><img src="flags/language/mi.svg" width="96"><p>Māori</p></div>
+  <div><img src="flags/language/mk.svg" width="96"><p>Macedonian</p></div>
+  <div><img src="flags/language/ml.svg" width="96"><p>Malayalam</p></div>
+  <div><img src="flags/language/mn.svg" width="96"><p>Mongolian</p></div>
+  <div><img src="flags/language/mni.svg" width="96"><p>Meitei</p></div>
+  <div><img src="flags/language/mr.svg" width="96"><p>Marathi</p></div>
+  <div><img src="flags/language/mrj.svg" width="96"><p>Western Mari</p></div>
+  <div><img src="flags/language/ms.svg" width="96"><p>Malay</p></div>
+  <div><img src="flags/language/mt.svg" width="96"><p>Maltese</p></div>
+  <div><img src="flags/language/my.svg" width="96"><p>Burmese</p></div>
+  <div><img src="flags/language/na.svg" width="96"><p>Nauru</p></div>
+  <div><img src="flags/language/nb.svg" width="96"><p>Norwegian Bokmål</p></div>
+  <div><img src="flags/language/nd.svg" width="96"><p>Northern Ndebele</p></div>
+  <div><img src="flags/language/ne.svg" width="96"><p>Nepali</p></div>
+  <div><img src="flags/language/nl.svg" width="96"><p>Dutch</p></div>
+  <div><img src="flags/language/nn.svg" width="96"><p>Norwegian Nynorsk</p></div>
+  <div><img src="flags/language/no.svg" width="96"><p>Norwegian</p></div>
+  <div><img src="flags/language/non.svg" width="96"><p>Old Norse</p></div>
+  <div><img src="flags/language/nr.svg" width="96"><p>Southern Ndebele</p></div>
+  <div><img src="flags/language/ny.svg" width="96"><p>Chichewa</p></div>
+  <div><img src="flags/language/oc.svg" width="96"><p>Occitan</p></div>
+  <div><img src="flags/language/om.svg" width="96"><p>Oromo</p></div>
+  <div><img src="flags/language/or.svg" width="96"><p>Odia</p></div>
+  <div><img src="flags/language/os.svg" width="96"><p>Ossetian</p></div>
+  <div><img src="flags/language/oto.svg" width="96"><p>Otomi</p></div>
+  <div><img src="flags/language/pa.svg" width="96"><p>Punjabi</p></div>
+  <div><img src="flags/language/pap.svg" width="96"><p>Papiamento</p></div>
+  <div><img src="flags/language/pl.svg" width="96"><p>Polish</p></div>
+  <div><img src="flags/language/pms.svg" width="96"><p>Piedmontese</p></div>
+  <div><img src="flags/language/ps.svg" width="96"><p>Pashto</p></div>
+  <div><img src="flags/language/pt-br.svg" width="96"><p>Portuguese</p></div>
+  <div><img src="flags/language/pt.svg" width="96"><p>Portuguese</p></div>
+  <div><img src="flags/language/qu.svg" width="96"><p>Quechua</p></div>
+  <div><img src="flags/language/rm.svg" width="96"><p>Romansh</p></div>
+  <div><img src="flags/language/rn.svg" width="96"><p>Rundi</p></div>
+  <div><img src="flags/language/ro.svg" width="96"><p>Romanian</p></div>
+  <div><img src="flags/language/ru.svg" width="96"><p>Russian</p></div>
+  <div><img src="flags/language/rw.svg" width="96"><p>Kinyarwanda</p></div>
+  <div><img src="flags/language/sc.svg" width="96"><p>Sardinian</p></div>
+  <div><img src="flags/language/sd.svg" width="96"><p>Sindhi</p></div>
+  <div><img src="flags/language/se.svg" width="96"><p>Northern Sami</p></div>
+  <div><img src="flags/language/sg.svg" width="96"><p>Sango</p></div>
+  <div><img src="flags/language/si.svg" width="96"><p>Sinhala</p></div>
+  <div><img src="flags/language/sk.svg" width="96"><p>Slovak</p></div>
+  <div><img src="flags/language/sl.svg" width="96"><p>Slovenian</p></div>
+  <div><img src="flags/language/sm.svg" width="96"><p>Samoan</p></div>
+  <div><img src="flags/language/sn.svg" width="96"><p>Shona</p></div>
+  <div><img src="flags/language/so.svg" width="96"><p>Somali</p></div>
+  <div><img src="flags/language/sq.svg" width="96"><p>Albanian</p></div>
+  <div><img src="flags/language/sr.svg" width="96"><p>Serbian</p></div>
+  <div><img src="flags/language/ss.svg" width="96"><p>Swazi</p></div>
+  <div><img src="flags/language/st.svg" width="96"><p>Southern Sotho</p></div>
+  <div><img src="flags/language/su.svg" width="96"><p>Sundanese</p></div>
+  <div><img src="flags/language/sv.svg" width="96"><p>Swedish</p></div>
+  <div><img src="flags/language/sw.svg" width="96"><p>Swahili</p></div>
+  <div><img src="flags/language/ta.svg" width="96"><p>Tamil</p></div>
+  <div><img src="flags/language/te.svg" width="96"><p>Telugu</p></div>
+  <div><img src="flags/language/tg.svg" width="96"><p>Tajik</p></div>
+  <div><img src="flags/language/th.svg" width="96"><p>Thai</p></div>
+  <div><img src="flags/language/ti.svg" width="96"><p>Tigrinya</p></div>
+  <div><img src="flags/language/tk.svg" width="96"><p>Turkmen</p></div>
+  <div><img src="flags/language/tl.svg" width="96"><p>Tagalog</p></div>
+  <div><img src="flags/language/tn.svg" width="96"><p>Tswana</p></div>
+  <div><img src="flags/language/to.svg" width="96"><p>Tongan</p></div>
+  <div><img src="flags/language/tr.svg" width="96"><p>Turkish</p></div>
+  <div><img src="flags/language/translingual.svg" width="96"><p>Translingual</p></div>
+  <div><img src="flags/language/tt.svg" width="96"><p>Tatar</p></div>
+  <div><img src="flags/language/ty.svg" width="96"><p>Tahitian</p></div>
+  <div><img src="flags/language/udm.svg" width="96"><p>Udmurt</p></div>
+  <div><img src="flags/language/ug.svg" width="96"><p>Uyghur</p></div>
+  <div><img src="flags/language/uk.svg" width="96"><p>Ukrainian</p></div>
+  <div><img src="flags/language/ur.svg" width="96"><p>Urdu</p></div>
+  <div><img src="flags/language/uz.svg" width="96"><p>Uzbek</p></div>
+  <div><img src="flags/language/vi.svg" width="96"><p>Vietnamese</p></div>
+  <div><img src="flags/language/vo.svg" width="96"><p>Volapük</p></div>
+  <div><img src="flags/language/xh.svg" width="96"><p>Xhosa</p></div>
+  <div><img src="flags/language/xx.svg" width="96"><p>&lt;Unknown&gt;</p></div>
+  <div><img src="flags/language/yi.svg" width="96"><p>Yiddish</p></div>
+  <div><img src="flags/language/yo.svg" width="96"><p>Yoruba</p></div>
+  <div><img src="flags/language/yua.svg" width="96"><p>Yucatec Maya</p></div>
+  <div><img src="flags/language/zh.svg" width="96"><p>Chinese</p></div>
+  <div><img src="flags/language/zu.svg" width="96"><p>Zulu</p></div>
+</div>
+
+<h2>Other flags</h2>
+
+<div class="container">
+  <div><img src="flags/other/checkered.svg" width="96"><p>Checkered</p></div>
+  <div><img src="flags/other/earth.svg" width="96"/><p>Earth</p></div>
+  <div><img src="flags/other/klingon.svg" width="96"><p>Klingon</p></div>
+  <div><img src="flags/other/lgbt.svg" width="96"><p>LGBT</p></div>
+  <div><img src="flags/other/lgbt-progress.svg" width="96"><p>Progress Pride</p></div>
+  <div><img src="flags/other/lgbt-transgender.svg" width="96"><p>Transgender</p></div>
+  <div><img src="flags/other/mars.svg" width="96"/><p>Mars</p></div>
+  <div><img src="flags/other/nato.svg" width="96"/><p>NATO</p></div>
+  <div><img src="flags/other/olympics.svg" width="96"/><p>Olympics</p></div>
+  <div><img src="flags/other/pirate.svg" width="96"><p>Pirate</p></div>
+  <div><img src="flags/other/united_nations.svg" width="96"/><p>United Nations</p></div>
+</div>
