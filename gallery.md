@@ -79,6 +79,7 @@ https://hatscripts.github.io/circle-flags/flags/xx.svg
   <div><img src="flags/cm.svg" width="96"/><p>Cameroon (<code>cm</code>)</p></div>
   <div><img src="flags/cn.svg" width="96"/><p>China (<code>cn</code>)</p></div>
   <div><img src="flags/cn-xj.svg" width="96"/><p>Xinjiang (<code>cn-xj</code>)</p></div>
+  <div><img src="flags/cn-xz.svg" width="96"/><p>Tibet (<code>cn-xz</code>)</p></div>
   <div><img src="flags/co.svg" width="96"/><p>Colombia (<code>co</code>)</p></div>
   <div><img src="flags/cq.svg" width="96"/><p>Sark (<code>cq</code>)</p></div>
   <div><img src="flags/cr.svg" width="96"/><p>Costa Rica (<code>cr</code>)</p></div>
@@ -349,7 +350,6 @@ https://hatscripts.github.io/circle-flags/flags/xx.svg
   <div><img src="flags/tf.svg" width="96"/><p>French Southern Territories (<code>tf</code>)</p></div>
   <div><img src="flags/tg.svg" width="96"/><p>Togo (<code>tg</code>)</p></div>
   <div><img src="flags/th.svg" width="96"/><p>Thailand (<code>th</code>)</p></div>
-  <div><img src="flags/tibet.svg" width="96"/><p>Tibet</p></div>
   <div><img src="flags/tj.svg" width="96"/><p>Tajikistan (<code>tj</code>)</p></div>
   <div><img src="flags/tk.svg" width="96"/><p>Tokelau (<code>tk</code>)</p></div>
   <div><img src="flags/tl.svg" width="96"/><p>Timor-Leste (<code>tl</code>)</p></div>
