@@ -43,12 +43,12 @@ If you want to install this package as a dependency, you can install it from thi
 npm install --save https://github.com/HatScripts/circle-flags
 ```
 
-### Userscripts
+### 📜 Userscripts
 
 - [Google Translate: Filter & Flags](https://github.com/HatScripts/google-translate-filter-and-flags) - Filters languages and shows country flags on Google Translate
 - [Wiktionary: Filter & Flags](https://github.com/HatScripts/wiktionary-filter-and-flags) - Filters languages and shows country flags on Wiktionary
 
-## Contributing
+## 🚀 Contributing
 
 To contribute, you need to have the latest version of [svgo](https://github.com/svg/svgo) installed.
 
@@ -62,7 +62,7 @@ svgo ./flags --recursive --config=svgo.config.js
 
 Then commit the changes, and submit them as a pull request.
 
-### The color palette
+### 🎨 The color palette
 
 Submitted flags should conform to the following color palette.<br/> Try to match the flag's original colors with the nearest color from the palette.
 
@@ -84,6 +84,6 @@ Special cases:
 - <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 2 2"><circle cx="1" cy="1" r="1" fill="#4a1f63"></svg> `#4a1f63`: purple (only one usage: [<img src="https://hatscripts.github.io/circle-flags/flags/es-ib.svg" width="16"> Balearic Islands](https://github.com/HatScripts/circle-flags/blob/gh-pages/flags/es-ib.svg))
 - <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 2 2"><circle cx="1" cy="1" r="1" fill="#751a46"></svg> `#751a46`: dark pink (only one usage: [<img src="https://hatscripts.github.io/circle-flags/flags/qa.svg" width="16"> Qatar](https://github.com/HatScripts/circle-flags/blob/gh-pages/flags/qa.svg))
 
-## License
+## 🧾 License
 
 This project is released under the [MIT license](LICENSE.md).
