@@ -2,7 +2,10 @@
   "compilerOptions": {
     "rootDir": ".",
     "paths": {
-      "react-native-circle-flags": ["./src/index"]
+      "react-native-circle-flags": ["./src/index"],
+      "react-native-circle-flags/country/*": ["src/webp/country/*/index"],
+      "react-native-circle-flags/language/*": ["./src/webp/language/*/index"],
+      "react-native-circle-flags/other/*": ["./src/webp/other/*/index"]
     },
     "allowUnreachableCode": false,
     "allowUnusedLabels": false,

@@ -4,11 +4,39 @@
   "description": "React Native components for 400+ minimal circular country, state and language flags — adapted from HatScripts/circle-flags",
   "main": "./lib/module/index.js",
   "types": "./lib/typescript/src/index.d.ts",
+  "typesVersions": {
+    "*": {
+      "country/*": [
+        "./lib/typescript/src/webp/country/*/index.d.ts"
+      ],
+      "language/*": [
+        "./lib/typescript/src/webp/language/*/index.d.ts"
+      ],
+      "other/*": [
+        "./lib/typescript/src/webp/other/*/index.d.ts"
+      ]
+    }
+  },
   "exports": {
     ".": {
       "source": "./src/index.tsx",
       "types": "./lib/typescript/src/index.d.ts",
       "default": "./lib/module/index.js"
+    },
+    "./country/*": {
+      "source": "./src/webp/country/*/index.tsx",
+      "types": "./lib/typescript/src/webp/country/*/index.d.ts",
+      "default": "./lib/module/webp/country/*/index.js"
+    },
+    "./language/*": {
+      "source": "./src/webp/language/*/index.tsx",
+      "types": "./lib/typescript/src/webp/language/*/index.d.ts",
+      "default": "./lib/module/webp/language/*/index.js"
+    },
+    "./other/*": {
+      "source": "./src/webp/other/*/index.tsx",
+      "types": "./lib/typescript/src/webp/other/*/index.d.ts",
+      "default": "./lib/module/webp/other/*/index.js"
     },
     "./package.json": "./package.json"
   },
