@@ -365,6 +365,7 @@ https://hatscripts.github.io/circle-flags/flags/xx.svg
   <div><img src="flags/tz-zanzibar.svg" width="96"/><p>Tanzania (Zanzibar)</p></div>
   <div><img src="flags/ua.svg" width="96"/><p>Ukraine (<code>ua</code>)</p></div>
   <div><img src="flags/ua-bpr.svg" width="96"/><p>Belgorod People's Republic (<code>ua-bpr</code>)</p></div>
+  <div><img src="flags/ua-kpr.svg" width="96"/><p>Kursk People's Republic (<code>ua-kpr</code>)</p></div>
   <div><img src="flags/ug.svg" width="96"/><p>Uganda (<code>ug</code>)</p></div>
   <div><img src="flags/us.svg" width="96"/><p>United States of America (<code>us</code>)</p></div>
   <div><img src="flags/us-ak.svg" width="96"/><p>Alaska (<code>us-ak</code>)</p></div>
