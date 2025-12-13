@@ -261,6 +261,7 @@ https://hatscripts.github.io/circle-flags/flags/xx.svg
   <div><img src="flags/mr.svg" width="96"/><p>Mauritania (<code>mr</code>)</p></div>
   <div><img src="flags/ms.svg" width="96"/><p>Montserrat (<code>ms</code>)</p></div>
   <div><img src="flags/mt.svg" width="96"/><p>Malta (<code>mt</code>)</p></div>
+  <div><img src="flags/mt-civil_ensign.svg" width="96"/><p>Malta (civil ensign)</p></div>
   <div><img src="flags/mu.svg" width="96"/><p>Mauritius (<code>mu</code>)</p></div>
   <div><img src="flags/mv.svg" width="96"/><p>Maldives (<code>mv</code>)</p></div>
   <div><img src="flags/mw.svg" width="96"/><p>Malawi (<code>mw</code>)</p></div>
