@@ -324,6 +324,7 @@ https://hatscripts.github.io/circle-flags/flags/xx.svg
   <div><img src="flags/sc.svg" width="96"/><p>Seychelles (<code>sc</code>)</p></div>
   <div><img src="flags/sd.svg" width="96"/><p>Sudan (<code>sd</code>)</p></div>
   <div><img src="flags/se.svg" width="96"/><p>Sweden (<code>se</code>)</p></div>
+  <div><img src="flags/sealand.svg" width="96"/><p>Sealand</p></div>
   <div><img src="flags/sg.svg" width="96"/><p>Singapore (<code>sg</code>)</p></div>
   <div><img src="flags/sh-ac.svg" width="96"/><p>Ascension Island (<code>sh-ac</code>)</p></div>
   <div><img src="flags/sh-hl.svg" width="96"/><p>Saint Helena (<code>sh-hl</code>)</p></div>
