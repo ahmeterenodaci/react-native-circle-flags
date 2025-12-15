@@ -1,8 +1,6 @@
 import { StyleSheet, Text, View } from 'react-native';
 
-//56.6
 import TrFlag from 'react-native-circle-flags/country/tr-flag';
-
 import EsFlag from 'react-native-circle-flags/country/es-flag';
 import PsFlag from 'react-native-circle-flags/country/ps-flag';
 import UaFlag from 'react-native-circle-flags/country/ua-flag';
@@ -16,9 +14,6 @@ import CheckeredFlag from 'react-native-circle-flags/other/checkered-flag';
 import NatoFlag from 'react-native-circle-flags/other/nato-flag';
 import OlympicsFlag from 'react-native-circle-flags/other/olympics-flag';
 import PirateFlag from 'react-native-circle-flags/other/pirate-flag';
-
-//59.8
-// import { country } from 'react-native-circle-flags/country';
 
 export default function App() {
   return (
