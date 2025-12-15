@@ -1,7 +1,7 @@
 # react-native-circle-flags
 
 <p align="center">
-  <img src="screenshot.png" alt="React Native Circle Flags" width="400" />
+  <img src="screenshot.png" alt="React Native Circle Flags" width="250" />
 </p>
 
 React Native components for **400+ minimal circular flags** — countries, states, languages, and more. Optimized WebP images adapted from [HatScripts/circle-flags](https://github.com/HatScripts/circle-flags).
