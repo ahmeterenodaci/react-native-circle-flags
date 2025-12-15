@@ -2,6 +2,6 @@ import { CircleFlag, type CircleFlagProps } from '../../CircleFlag';
 
 export const PtPtFlagSource = require('./pt-pt.webp');
 
-export default function PtPtFlag(props: Omit<CircleFlagProps, "source">) {
+export default function PtPtFlag(props: Omit<CircleFlagProps, 'source'>) {
   return <CircleFlag {...props} source={PtPtFlagSource} />;
 }

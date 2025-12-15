@@ -2,6 +2,6 @@ import { CircleFlag, type CircleFlagProps } from '../../CircleFlag';
 
 export const CzFlagSource = require('./cz.webp');
 
-export default function CzFlag(props: Omit<CircleFlagProps, "source">) {
+export default function CzFlag(props: Omit<CircleFlagProps, 'source'>) {
   return <CircleFlag {...props} source={CzFlagSource} />;
 }

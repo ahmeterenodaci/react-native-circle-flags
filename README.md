@@ -66,14 +66,14 @@ import CircleOtherFlag from 'react-native-circle-flags/other';
 ### Method 3: Using Flag Assets
 
 ```tsx
-import { CountryFlags } from 'react-native-circle-flags/country';
-import { LanguageFlags } from 'react-native-circle-flags/language';
-import { OtherFlags } from 'react-native-circle-flags/other';
+import { CountryFlagSources } from 'react-native-circle-flags/country';
+import { LanguageFlagSources } from 'react-native-circle-flags/language';
+import { OtherFlagSources } from 'react-native-circle-flags/other';
 
 // Usage
-<Image source={CountryFlags['tr']} style={{ width: 64, height: 64 }} />
-<Image source={LanguageFlags['en']} style={{ width: 64, height: 64 }} />
-<Image source={OtherFlags['nato']} style={{ width: 64, height: 64 }} />
+<Image source={CountryFlagSources['tr']} style={{ width: 64, height: 64 }} />
+<Image source={LanguageFlagSources['en']} style={{ width: 64, height: 64 }} />
+<Image source={OtherFlagSources['nato']} style={{ width: 64, height: 64 }} />
 ```
 
 > ⚠️ **Note:** This method also imports all flag assets for the category.
@@ -104,17 +104,17 @@ import CircleOtherFlag from 'react-native-circle-flags/other';
 import {
   type CountryCode,
   COUNTRY_CODES,
-  CountryFlags,
+  CountryFlagSources,
 } from 'react-native-circle-flags/country';
 import {
   type LanguageCode,
   LANGUAGE_CODES,
-  LanguageFlags,
+  LanguageFlagSources,
 } from 'react-native-circle-flags/language';
 import {
   type OtherCode,
   OTHER_CODES,
-  OtherFlags,
+  OtherFlagSources,
 } from 'react-native-circle-flags/other';
 
 // Type-safe codes
@@ -128,9 +128,9 @@ LANGUAGE_CODES; // ['aa', 'ab', 'af', ...]
 OTHER_CODES; // ['checkered', 'earth', ...]
 
 // Flag asset mappings (Record<Code, ImageSourcePropType>)
-CountryFlags['tr'];
-LanguageFlags['en'];
-OtherFlags['nato'];
+CountryFlagSources['tr'];
+LanguageFlagSources['en'];
+OtherFlagSources['nato'];
 ```
 
 ## 🌍 Available Flags

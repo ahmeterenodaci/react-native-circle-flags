@@ -2,6 +2,6 @@ import { CircleFlag, type CircleFlagProps } from '../../CircleFlag';
 
 export const InMzFlagSource = require('./in-mz.webp');
 
-export default function InMzFlag(props: Omit<CircleFlagProps, "source">) {
+export default function InMzFlag(props: Omit<CircleFlagProps, 'source'>) {
   return <CircleFlag {...props} source={InMzFlagSource} />;
 }
