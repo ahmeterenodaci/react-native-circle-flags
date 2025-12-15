@@ -14,6 +14,14 @@ React Native components for **400+ minimal circular flags** — countries, state
 - ⚡ **Optimized** — WebP format for smaller bundle size
 - 🧩 **Flexible** — Use as components or raw image sources
 
+<table>
+	<tr>
+		<td>
+			Don't forget to hit the star ⭐ button
+		</td>
+	</tr>
+</table>
+
 ## 📦 Installation
 
 ```sh
