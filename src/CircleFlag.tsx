@@ -6,12 +6,17 @@ import {
 } from 'react-native';
 
 export interface CircleFlagProps {
-  source: ImageSourcePropType;
   size?: number;
   style?: StyleProp<ImageStyle>;
 }
 
-export function CircleFlag({ source, size = 32, style }: CircleFlagProps) {
+export function CircleFlag({
+  source,
+  size = 32,
+  style,
+}: CircleFlagProps & {
+  source: ImageSourcePropType;
+}) {
   return (
     <Image
       source={source}
