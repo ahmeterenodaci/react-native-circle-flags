@@ -1,0 +1,7 @@
+import { CircleFlag, type CircleFlagProps } from '../../CircleFlag';
+
+export const HmnFlagSource = require('./hmn.webp');
+
+export default function HmnFlag(props: Omit<CircleFlagProps, "source">) {
+  return <CircleFlag {...props} source={HmnFlagSource} />;
+}

@@ -1,19 +1,24 @@
-import { Image, StyleSheet, Text, View } from 'react-native';
+import { StyleSheet, Text, View } from 'react-native';
 
-import TrFlag from 'react-native-circle-flags/country/TrFlag';
-import EsFlag from 'react-native-circle-flags/country/EsFlag';
-import PsFlag from 'react-native-circle-flags/country/PsFlag';
-import UaFlag from 'react-native-circle-flags/country/UaFlag';
+//56.6
+import TrFlag from 'react-native-circle-flags/country/tr-flag';
 
-import EnCaFlag from 'react-native-circle-flags/language/EnCaFlag';
-import EnAuFlag from 'react-native-circle-flags/language/EnAuFlag';
-import DeFlag from 'react-native-circle-flags/language/DeFlag';
-import NlFlag from 'react-native-circle-flags/language/NlFlag';
+import EsFlag from 'react-native-circle-flags/country/es-flag';
+import PsFlag from 'react-native-circle-flags/country/ps-flag';
+import UaFlag from 'react-native-circle-flags/country/ua-flag';
 
-import CheckeredFlag from 'react-native-circle-flags/other/CheckeredFlag';
-import PirateFlag from 'react-native-circle-flags/other/PirateFlag';
-import OlympicsFlag from 'react-native-circle-flags/other/OlympicsFlag';
-import NatoFlag from 'react-native-circle-flags/other/NatoFlag';
+import DeFlag from 'react-native-circle-flags/language/de-flag';
+import EnAuFlag from 'react-native-circle-flags/language/en-au-flag';
+import EnCaFlag from 'react-native-circle-flags/language/en-ca-flag';
+import NlFlag from 'react-native-circle-flags/language/nl-flag';
+
+import CheckeredFlag from 'react-native-circle-flags/other/checkered-flag';
+import NatoFlag from 'react-native-circle-flags/other/nato-flag';
+import OlympicsFlag from 'react-native-circle-flags/other/olympics-flag';
+import PirateFlag from 'react-native-circle-flags/other/pirate-flag';
+
+//59.8
+// import { country } from 'react-native-circle-flags/country';
 
 export default function App() {
   return (
@@ -21,19 +26,19 @@ export default function App() {
       <Text style={styles.sectionLabel}>Country Flags</Text>
       <View style={styles.row}>
         <View>
-          <Image source={TrFlag} style={styles.flag} />
+          <TrFlag style={styles.flag} />
           <Text style={styles.flagLabel}>Türkiye</Text>
         </View>
         <View>
-          <Image source={EsFlag} style={styles.flag} />
+          <EsFlag style={styles.flag} />
           <Text style={styles.flagLabel}>Spain</Text>
         </View>
         <View>
-          <Image source={PsFlag} style={styles.flag} />
+          <PsFlag style={styles.flag} />
           <Text style={styles.flagLabel}>Palestine</Text>
         </View>
         <View>
-          <Image source={UaFlag} style={styles.flag} />
+          <UaFlag style={styles.flag} />
           <Text style={styles.flagLabel}>Ukraine</Text>
         </View>
       </View>
@@ -41,38 +46,38 @@ export default function App() {
       <Text style={styles.sectionLabel}>Language Flags</Text>
       <View style={styles.row}>
         <View>
-          <Image source={EnCaFlag} style={styles.flag} />
+          <EnCaFlag style={styles.flag} />
           <Text style={styles.flagLabel}>English (Canada)</Text>
         </View>
         <View>
-          <Image source={EnAuFlag} style={styles.flag} />
+          <EnAuFlag style={styles.flag} />
           <Text style={styles.flagLabel}>English (Australia)</Text>
         </View>
         <View>
-          <Image source={DeFlag} style={styles.flag} />
+          <DeFlag style={styles.flag} />
           <Text style={styles.flagLabel}>German</Text>
         </View>
         <View>
-          <Image source={NlFlag} style={styles.flag} />
+          <NlFlag style={styles.flag} />
           <Text style={styles.flagLabel}>Dutch</Text>
         </View>
       </View>
       <Text style={styles.sectionLabel}>Other Flags</Text>
       <View style={styles.row}>
         <View>
-          <Image source={CheckeredFlag} style={styles.flag} />
+          <CheckeredFlag style={styles.flag} />
           <Text style={styles.flagLabel}>Checkered</Text>
         </View>
         <View>
-          <Image source={PirateFlag} style={styles.flag} />
+          <PirateFlag style={styles.flag} />
           <Text style={styles.flagLabel}>Pirate</Text>
         </View>
         <View>
-          <Image source={OlympicsFlag} style={styles.flag} />
+          <OlympicsFlag style={styles.flag} />
           <Text style={styles.flagLabel}>Olympics</Text>
         </View>
         <View>
-          <Image source={NatoFlag} style={styles.flag} />
+          <NatoFlag style={styles.flag} />
           <Text style={styles.flagLabel}>NATO</Text>
         </View>
       </View>
@@ -85,6 +90,7 @@ const styles = StyleSheet.create({
     flex: 1,
     alignItems: 'center',
     justifyContent: 'center',
+    backgroundColor: '#f0f0f0',
   },
   sectionLabel: { fontWeight: 'medium', marginTop: 20, fontSize: 18 },
   row: {

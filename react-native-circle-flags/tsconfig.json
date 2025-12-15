@@ -3,9 +3,12 @@
     "rootDir": ".",
     "paths": {
       "react-native-circle-flags": ["./src/index"],
-      "react-native-circle-flags/country/*": ["src/webp/country/*/index"],
-      "react-native-circle-flags/language/*": ["./src/webp/language/*/index"],
-      "react-native-circle-flags/other/*": ["./src/webp/other/*/index"]
+      "react-native-circle-flags/country": ["./src/country"],
+      "react-native-circle-flags/language": ["./src/language"],
+      "react-native-circle-flags/other": ["./src/other"],
+      "react-native-circle-flags/country/*": ["./src/country/*/index"],
+      "react-native-circle-flags/language/*": ["./src/language/*/index"],
+      "react-native-circle-flags/other/*": ["./src/other/*/index"]
     },
     "allowUnreachableCode": false,
     "allowUnusedLabels": false,

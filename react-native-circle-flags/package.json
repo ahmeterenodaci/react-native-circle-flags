@@ -6,37 +6,61 @@
   "types": "./lib/typescript/src/index.d.ts",
   "typesVersions": {
     "*": {
+      "country": [
+        "./lib/typescript/src/country.d.ts"
+      ],
+      "language": [
+        "./lib/typescript/src/language.d.ts"
+      ],
+      "other": [
+        "./lib/typescript/src/other.d.ts"
+      ],
       "country/*": [
-        "./lib/typescript/src/webp/country/*/index.d.ts"
+        "./lib/typescript/src/country/*/index.d.ts"
       ],
       "language/*": [
-        "./lib/typescript/src/webp/language/*/index.d.ts"
+        "./lib/typescript/src/language/*/index.d.ts"
       ],
       "other/*": [
-        "./lib/typescript/src/webp/other/*/index.d.ts"
+        "./lib/typescript/src/other/*/index.d.ts"
       ]
     }
   },
   "exports": {
     ".": {
-      "source": "./src/index.tsx",
+      "source": "./src/index.ts",
       "types": "./lib/typescript/src/index.d.ts",
       "default": "./lib/module/index.js"
     },
+    "./country": {
+      "source": "./src/country.tsx",
+      "types": "./lib/typescript/src/country.d.ts",
+      "default": "./lib/module/country.js"
+    },
+    "./language": {
+      "source": "./src/language.tsx",
+      "types": "./lib/typescript/src/language.d.ts",
+      "default": "./lib/module/language.js"
+    },
+    "./other": {
+      "source": "./src/other.tsx",
+      "types": "./lib/typescript/src/other.d.ts",
+      "default": "./lib/module/other.js"
+    },
     "./country/*": {
-      "source": "./src/webp/country/*/index.tsx",
-      "types": "./lib/typescript/src/webp/country/*/index.d.ts",
-      "default": "./lib/module/webp/country/*/index.js"
+      "source": "./src/country/*/index.tsx",
+      "types": "./lib/typescript/src/country/*/index.d.ts",
+      "default": "./lib/module/country/*/index.js"
     },
     "./language/*": {
-      "source": "./src/webp/language/*/index.tsx",
-      "types": "./lib/typescript/src/webp/language/*/index.d.ts",
-      "default": "./lib/module/webp/language/*/index.js"
+      "source": "./src/language/*/index.tsx",
+      "types": "./lib/typescript/src/language/*/index.d.ts",
+      "default": "./lib/module/language/*/index.js"
     },
     "./other/*": {
-      "source": "./src/webp/other/*/index.tsx",
-      "types": "./lib/typescript/src/webp/other/*/index.d.ts",
-      "default": "./lib/module/webp/other/*/index.js"
+      "source": "./src/other/*/index.tsx",
+      "types": "./lib/typescript/src/other/*/index.d.ts",
+      "default": "./lib/module/other/*/index.js"
     },
     "./package.json": "./package.json"
   },
@@ -66,12 +90,16 @@
     "typecheck": "tsc",
     "lint": "eslint \"**/*.{js,ts,tsx}\"",
     "test": "jest",
-    "release": "release-it --only-version"
+    "release": "release-it --only-version",
+    "generate": "node scripts/generate.js"
   },
   "keywords": [
     "react-native",
     "ios",
-    "android"
+    "android",
+    "flags",
+    "circle-flags",
+    "country-flags"
   ],
   "repository": {
     "type": "git",
@@ -108,6 +136,7 @@
     "react-native": "0.81.5",
     "react-native-builder-bob": "^0.40.13",
     "release-it": "^19.0.4",
+    "sharp": "^0.33.5",
     "typescript": "^5.9.2"
   },
   "peerDependencies": {
